@@ -1,3 +1,7 @@
+# Supabase local temp files (jangan commit — berisi project ref & DB URL)
+supabase/.temp/
+.supabase/
+
 # Logs
 logs
 *.log
@@ -22,3 +26,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.vercel
